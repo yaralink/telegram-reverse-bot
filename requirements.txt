@@ -1,0 +1,5 @@
+python-telegram-bot==20.5
+boto3
+pydub
+gTTS
+telegram
